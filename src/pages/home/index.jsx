@@ -14,7 +14,7 @@ export default function Home() {
       ) : (
         <div>
           <p className="lg:text-4xl text-xl text-center text-black font-extrabold">
-            Nothing to show. Please search something for your <h1 className="font-extrabool">Kitchen Recipe.</h1>
+            Nothing to show. Please search something for your Kitchen Recipe.
           </p>
         </div>
       )}
